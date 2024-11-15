@@ -44,7 +44,7 @@ int main() {
 // - results on Intel(R) Core(TM) i5-2520M
 // 
 // interval	util(%)
-// -------------------
+// --------------------
 // 1 us		100	
 // 10 us	60	
 // 100 us	20	
@@ -56,3 +56,11 @@ int main() {
 // 400 us	8 
 // 600 us	5
 // 800 us	4
+//
+// - results on Intel(R) Celeron(R) CPU  N2807  @ 1.58GHz
+//
+// interval	util(%)
+// --------------------
+// 10 us 	100
+// 100 us	20
+// 1 ms		3
